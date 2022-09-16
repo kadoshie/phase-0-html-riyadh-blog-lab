@@ -25,24 +25,24 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: century;
   color: #fff;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.5rem;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
-  margin-top: .5em;
+  font-size: 1.5rem;
+  margin-top: .5rem;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
-  margin-top: .5em;
+  font-size: 1.5rem;
+  margin-top: .5rem;
 }
 
 img {
@@ -52,7 +52,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 a {
@@ -75,10 +75,10 @@ a:hover {
     font-size: 120%;
   }
   h1 {
-    font-size: 2.5em;
+    font-size: 2.5rem;
   }
   h2 {
-    font-size: 1em;
+    font-size: 1rem;
   }
   .wrapper {
     width: 95%;
